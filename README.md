@@ -24,6 +24,12 @@
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
+- 💬 Languages...
+
+  🇪🇸 Spanish - [Level: Native language]
+  
+  🇬🇧 English - [Level: C2] [Certification](https://cert.efset.org/en/6iBzbb)
+
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -38,11 +44,6 @@
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-- 💬 Languages (Human):
-    
-    Spanish - [Level: Native language] <br>
-    English - [Level: C2] [Certification](https://cert.efset.org/en/6iBzbb)
 
     
 - ☁️ Cloud:
