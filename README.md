@@ -26,7 +26,7 @@
 
 - 😄 Pronouns: He/Him/We
 
-- ⚡ Coding fact: "El primer bug en programación no era un error de código, sino una polilla real atrapada en un relé de la computadora Mark II en 1947".
+- ⚡ Coding fact: "The first bug documented in programming was not a code error, but a real moth caught in a Mark II computer relay in 1947".
 
 - 💪🏼 Fav Quote: "Live like you could die tomorrow".
 
