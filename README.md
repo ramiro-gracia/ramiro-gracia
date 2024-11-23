@@ -102,7 +102,9 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
- <em><b>I love connecting with different people,</b> so if you want to say <b>hi, I'd be delighted to meet you!</b>😃</em>
+ <em>🌟<b>Find me on linkedin or send me an email. I will be happy to get in touch!</b>🌟</em>
+ <br>
+ <em><b>  Mail: ramiro.graciia@gmail.com - Phone number: (+54)91160007044 - See you soon! </b>👋</em>
  
 <br>
 
