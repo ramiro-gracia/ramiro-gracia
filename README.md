@@ -14,21 +14,21 @@
 
 - 🔭 I’m currently searching for new work opportunitys.
 
+- 💬 Languages...
+
+  🇪🇸 Spanish - [Level: Native language]
+  
+  🇬🇧 English - [Level: C2] [Certification](https://cert.efset.org/en/6iBzbb)
+
 - 👨‍💻 You can access all of my projects here on **[GitHub](https://github.com/ramiro-gracia)**
 
 - 💬 Ask me about anything, I am happy to help, and I think that in the search to help the other we also learn!😉
 
 - 😄 Pronouns: He/Him/We
 
-- ⚡ Coding fact: "There are over 700 different programming languages".
+- ⚡ Coding fact: "El primer bug en programación no era un error de código, sino una polilla real atrapada en un relé de la computadora Mark II en 1947".
 
-- 💪🏼 Fav Quote: "Great Developers never stop learning".
-
-- 💬 Languages...
-
-  🇪🇸 Spanish - [Level: Native language]
-  
-  🇬🇧 English - [Level: C2] [Certification](https://cert.efset.org/en/6iBzbb)
+- 💪🏼 Fav Quote: "Live like you could die tomorrow".
 
 <br>
 
