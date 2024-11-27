@@ -10,7 +10,9 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🙋 I’m Ramiro Gracia, a 5th year computer engineering student living in Buenos Aires, Argentina.
+- 🙋 I’m Ramiro Gracia, a 5th year computer engineering student.
+
+- 📍 Living in Buenos Aires, Argentina.
 
 - 🔭 I’m currently searching for new work opportunitys.
 
