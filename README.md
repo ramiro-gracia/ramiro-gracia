@@ -30,7 +30,7 @@
 
 - ⚡ Coding fact: "The first bug documented in programming was not a code error, but a real moth caught in a Mark II computer relay in 1947".
 
-- 💪🏼 Fav Quote: "Live like you could die tomorrow".
+- 💪🏼 Fav Quote: "First, solve the problem. Then, write the code." – **John Johnson**.
 
 <br>
 
