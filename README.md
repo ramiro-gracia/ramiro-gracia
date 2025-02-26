@@ -86,16 +86,6 @@
 
 <br> 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=ramiro-gracia&theme=tokyonight&show_icons=true/460/300">
-
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramiro-gracia&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
-
-<p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ramiro-gracia&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
-
-<br>
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
  <em>🌟<b>Find me on linkedin, send me an email or text me. I will be happy to get in touch!</b>🌟</em>
