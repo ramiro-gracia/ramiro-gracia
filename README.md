@@ -26,12 +26,6 @@
 
 - 💬 Ask me about anything, I am happy to help, and I think that in the search to help the other we also learn!😉
 
-- 😄 Pronouns: He/Him/We
-
-- ⚡ Coding fact: "The first bug documented in programming was not a code error, but a real moth caught in a Mark II computer relay in 1947".
-
-- 💪🏼 Fav Quote: "First, solve the problem. Then, write the code." – **John Johnson**.
-
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -86,7 +80,7 @@
 
  <em>🌟<b>Find me on linkedin, send me an email or text me. I will be happy to get in touch!</b>🌟</em>
  <br>
- <em><b>  Mail: ramiro.graciia@gmail.com - Phone number: (+54)91160007044 - See you soon! </b>👋</em>
+ <em><b>  Mail: gracia.ramiro2001@gmail.com - Phone number: (+54)91160007044 - See you soon! </b>👋</em>
  
 <br>
 
